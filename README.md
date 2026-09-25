@@ -2,8 +2,6 @@
 
 Transparencias y hojas de problemas del curso Principios de Economía (UC3M), en español e inglés, listas para consultar o descargar.
 
-El código fuente (LaTeX, preguntas de examen, scripts) está en el repositorio privado del profesor y no es público.
-
 ## Transparencias semanales
 
 | Semana | Español | English |
