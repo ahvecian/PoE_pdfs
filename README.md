@@ -2,13 +2,13 @@
 
 Repositorio privado. Guarda con historial los PDF compilados de las transparencias y las hojas de problemas del curso, pero ya no es la vía de distribución a los alumnos.
 
-La distribución a los alumnos se hace con enlaces de gist secreto de GitHub (no indexados, no listados, solo accesibles con la URL exacta), que se pegan en Moodle:
+La distribución a los alumnos se hace con enlaces de issues de un repositorio auxiliar (PoE_files) (no indexados, no listados, solo accesibles con la URL exacta), que se pegan en Moodle:
 
-- Transparencias: <pendiente, pegar aquí el enlace del gist>
-- Hojas de problemas (sin soluciones): <pendiente, pegar aquí el enlace del gist>
-- Soluciones: <pendiente, pegar aquí el enlace del gist>
+- Transparencias: https://github.com/ahvecian/PoE_files/issues/1
+- Hojas de problemas (sin soluciones): https://github.com/ahvecian/PoE_files/issues/2
+- Soluciones: https://github.com/ahvecian/PoE_files/issues/3
 
-Cuando se actualice un PDF aquí, hay que volver a subirlo también al gist correspondiente (arrastrando el nuevo archivo sobre el antiguo, con "Edit").
+Cuando se actualice un PDF aquí, hay que volver a subirlo también al issue correspondiente (arrastrando el nuevo archivo dentro del comentario y editándolo).
 
 ## Estructura
 
