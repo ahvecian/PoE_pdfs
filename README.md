@@ -8,7 +8,7 @@ La distribución a los alumnos se hace con enlaces de issues de un repositorio a
 - Hojas de problemas (sin soluciones): https://github.com/ahvecian/PoE_files/issues/2
 - Soluciones: https://github.com/ahvecian/PoE_files/issues/3
 
-Cuando se actualice un PDF aquí, hay que volver a subirlo también al issue correspondiente (arrastrando el nuevo archivo dentro del comentario y editándolo).
+Cuando se actualice un PDF, hay que volver a subirlo al issue correspondiente (arrastrando el nuevo archivo dentro del comentario y editándolo).
 
 ## Licencia
 
